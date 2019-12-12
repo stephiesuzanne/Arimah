@@ -78,7 +78,7 @@ h1, h2, h3, h4, h5,
   height: 43px;
   border-radius: 0; }
   .form-control:active, .form-control:focus {
-    border-color: #8bc34a; }
+    border-color: hotpink; }
   .form-control:hover, .form-control:active, .form-control:focus {
     -webkit-box-shadow: none !important;
     box-shadow: none !important; }
@@ -104,7 +104,7 @@ h1, h2, h3, h4, h5,
     position: absolute;
     width: 100px;
     height: 1px;
-    background: #8bc34a; }
+    background: hotpink; }
   .site-section-heading.text-center:after {
     content: "";
     -webkit-transform: translateX(-50%);
@@ -116,7 +116,7 @@ h1, h2, h3, h4, h5,
     position: absolute;
     width: 100px;
     height: 1px;
-    background: #8bc34a; }
+    background: hotpink; }
 
 .border-top {
   border-top: 1px solid #edf0f5 !important; }
